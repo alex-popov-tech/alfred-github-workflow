@@ -1,13 +1,11 @@
-GitHub Workflow for [Alfred 3](http://www.alfredapp.com)
+GitHub Workflow for [Alfred 4](http://www.alfredapp.com)
 ==============================
-
-[![Gitter](https://badges.gitter.im/gharlan/alfred-github-workflow.svg)](https://gitter.im/gharlan/alfred-github-workflow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 You can search through GitHub (`gh`) and your GitHub Enterprise instance (`ghe`).
 
 You have to login (`gh > login`) before you can use the workflow. The login uses OAuth, so you do not have to enter your credentials.
 
-**[DOWNLOAD](https://github.com/gharlan/alfred-github-workflow/releases)**
+**[DOWNLOAD](https://github.com/alex-popov-tech/alfred-github-workflow/releases)**
 
 ![Workflow Screenshot](screenshot.png)
 
